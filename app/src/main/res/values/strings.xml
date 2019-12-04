@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">carloan</string>
+    <string name="t1">Enter Car Price:</string>
+    <string name="editText" ></string>
+    <string name="txtOutput" ></string>
+    <string name="txtOuput2"></string>
+    <string name="txtOutput3"></string>
+    <string name="txtOuput4"></string>
+    <string name="t2">Enter down payment amount :</string>
+    <string name="t3">Enter loan period(years) :</string>
+    <string name="t4">Enter interest rate :</string>
+    <string name="b1">Calculate</string>
+    <string name="t5">Result :</string>
+    <string name="t6">Car Loan :</string>
+    <string name="t7">Interest</string>
+    <string name="T8">Monthly Payment</string>
+</resources>
